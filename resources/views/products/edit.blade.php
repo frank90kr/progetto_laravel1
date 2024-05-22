@@ -3,7 +3,7 @@
 @section('title', 'Store - Edit')
 
 @section('content')
-    <h1>Edit</h1>
+    <h1 class="mt-4">Edit</h1>
     <form method="POST" action="{{ route('products.update', ['id' => $product]) }}">
         @method('PUT')
         @csrf
