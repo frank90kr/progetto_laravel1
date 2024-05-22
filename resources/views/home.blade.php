@@ -22,10 +22,5 @@
         Voluptatibus temporibus, quae, blanditiis consequuntur quaerat minima sequi accusantium nihil id error voluptas
         mollitia. Est deleniti quidem consequatur laboriosam voluptatem totam reprehenderit voluptas eligendi, doloremque,
         ipsa repudiandae reiciendis veritatis. Temporibus.
-        At porro aperiam consequuntur modi molestiae corporis, ipsum sit accusantium hic commodi, consectetur, cupiditate a
-        labore repellat ducimus pariatur. Totam non, quos itaque ipsum dolores ex fugiat aut repellat nisi?
-        Ea aut dicta ullam? Repellat sunt ab itaque similique repudiandae veritatis, aut nam accusamus iste eum ex sint
-        soluta a illum dolores molestias officiis? Placeat explicabo voluptates ipsum eaque commodi.
-        Earum tempore quibusdam sit sapiente tempora cupiditate fugiat provident adipisci quasi sed vitae deleniti, aperiam
-        numquam nostrum vel velit fuga placeat odio nisi animi et temporibus fugit voluptatibus veniam? Fuga.</p>
+       </p>
 @endsection

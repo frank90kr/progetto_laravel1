@@ -41,7 +41,7 @@
                            <form action="{{ route('products.destroy', ['id' => $product->id]) }}" method="POST" style="display:inline;">
                             @method('DELETE')
                             @csrf
-                            <button class="btn btn-danger btn-sm mb-2 w-100">Elimina</button>
+                            <button class="btn btn-danger btn-sm mb-2 w-100">Delete</button>
                         </form>
                         <a class="btn btn-secondary btn-sm w-100" href="{{ route('products.edit', ['id' => $product->id]) }}">Edit</a>
                         @endif
