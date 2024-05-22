@@ -37,9 +37,12 @@
                 {{ __('Already registered?') }}
             </a>
 
-            <x-primary-button>
-                {{ __('Register') }}
-            </x-primary-button>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">
+                    {{ __('Register') }}
+                </button>
+            </div>
+            
         </div>
     </form>
 @endsection

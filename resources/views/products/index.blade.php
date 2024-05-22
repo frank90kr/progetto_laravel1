@@ -6,7 +6,8 @@
 
 <div class="d-flex">
     <h1 class="mt-4">Products list</h1>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bRQLJj4SxReFTme5iHs5g6jZwSsQSIMltnELs4tfvw&s" alt="" style="width: 80px" class="ms-auto">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bRQLJj4SxReFTme5iHs5g6jZwSsQSIMltnELs4tfvw&s" alt="" style="width: 80px; border: 1px solid rgba(0, 0, 0, 0.229); border-radius: 5px;" class="ms-auto">
+
 </div>
 
     @if(session('success'))
